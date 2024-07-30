@@ -1,9 +1,9 @@
 
-<h1 align="center">Muhammad Abdul Hafidz</h1>
+<h2 align="center">Muhammad Abdul Hafidz</h2>
 
 <div align="center">
   
-## Stats
+## 🛠️ Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabdulhafidz&layout=compact&theme=dark)
 
