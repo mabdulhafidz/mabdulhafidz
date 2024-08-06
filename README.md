@@ -10,6 +10,13 @@
 
 ![Hafidz GitHub stats](https://github-readme-stats.vercel.app/api?username=mabdulhafidz&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mabdulhafidz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+  
+<div style="width: 100%;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mabdulhafidz&theme=dark&hide_border=true" style="width: 100%;" />
+  </a>
+</div>
+
 
 </div>
