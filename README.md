@@ -1,6 +1,8 @@
 
 <h2 align="center">Muhammad Abdul Hafidz</h2>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=69&color=FFFFFF&background=000&center=true&vCenter=true&center=true&vCenter=true&width=1100&height=80&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Hafidz!">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=50&color=FFFFFF&background=000000&center=true&vCenter=true&width=1100&height=80&lines=Hello+there👨‍💻,+I'm+Hafidz!;Hello+there👨‍💻,+I'm+Software+Engineer!;My+hobby+is+playing+football!;Hello+there👨‍💻,+I'm+Hafidz!;Hello+there👨‍💻,+I'm+Software+Engineer!;My+hobby+is+playing+football!">
+
+
 <div align="center">
   
 ## 🛠️ Stats
