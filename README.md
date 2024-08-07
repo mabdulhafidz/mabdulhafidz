@@ -1,5 +1,4 @@
 
-<h2 align="center">Muhammad Abdul Hafidz</h2>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=50&color=FFFFFF&background=000000&center=true&vCenter=true&width=1100&height=80&lines=Hello+there👨‍💻,+I'm+Hafidz!;I'm+Software+Engineer😁;My+hobby+is+playing+football⚽;Hello+there👨‍💻,+I'm+Hafidz!;I'm+Software+Engineer😁;My+hobby+is+playing+football⚽">
 
 
