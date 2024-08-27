@@ -9,8 +9,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabdulhafidz&layout=compact&)
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=mabdulhafidz&show_icons=true&" alt="Hafidz GitHub stats">
-
-<img width="424" src="https://github-readme-streak-stats.herokuapp.com?user=mabdulhafidz&&hide_border=true&width=100%" alt="GitHub Streak">
 
 </div>
