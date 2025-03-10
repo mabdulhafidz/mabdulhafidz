@@ -16,6 +16,8 @@ I take pride in designing systems that not only function well but also provide i
 ## Get in Touch
 Feel free to connect with me to discuss ideas, collaborate on projects, or simply exchange knowledge.  
 - **Email**: hfidz7534@gmail.com  
-- **GitHub**: [github.com/mabdulhafidz](https://github.com/mabdulhafidz)  
+- **GitHub**: [github.com/mabdulhafidz](https://github.com/mabdulhafidz)
+- ![M Abdul Hafidz GitHub stats](https://github-readme-stats.vercel.app/api?username=mabdulhafidz&show_icons=true&theme=radical)
 
 **"Let’s create something extraordinary together!"**
+
